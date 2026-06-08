@@ -1,3 +1,6 @@
+1.0.8 2026-06-08
+  - Corrected and expanded task-Stroop_events.json and some of the individual Stroop events.tsv files to correct errors and distinguish "unintelligible" response accuracy.
+  - Corrected a coding error in ffmq01_DMCC55B.csv.
 1.0.7 2025-01-21
   - corrected Stroop eprime derivative filenames.
 1.0.6 2022-06-09
