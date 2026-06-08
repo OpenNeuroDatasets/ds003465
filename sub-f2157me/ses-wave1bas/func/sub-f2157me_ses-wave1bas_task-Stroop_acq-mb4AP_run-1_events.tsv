@@ -61,7 +61,7 @@ onset	duration	trial_type	trial_lwpc	response_time	response_accuracy
 345.109	2	Con	MC	0.794	1
 348.708	2	Con	PC50	0.8675	1
 353.507	2	Con	MC	0.791	1
-359.506	2	Con	PC50	0.866	0
+359.506	2	Con	PC50	0.866	unintelligible
 364.306	2	InCon	PC50	1.0265	1
 367.905	2	InCon	PC50	0.978	1
 371.504	2	Con	MC	0.843	1
@@ -95,9 +95,9 @@ onset	duration	trial_type	trial_lwpc	response_time	response_accuracy
 538.311	2	InCon	PC50	0.8145	1
 543.111	2	Con	MC	0.7085	1
 546.71	2	Con	PC50	0.794	1
-551.509	2	Con	PC50	0.7095	0
+551.509	2	Con	PC50	0.7095	unintelligible
 556.308	2	Con	MC	0.719	1
-559.908	2	Con	PC50	0.712	0
+559.908	2	Con	PC50	0.712	unintelligible
 564.707	2	Con	PC50	0.7075	1
 569.506	2	Con	MC	0.6465	1
 575.505	2	Con	MC	0.675	1
