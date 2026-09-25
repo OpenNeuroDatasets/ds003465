@@ -1,0 +1,17 @@
+1.0.8 2026-06-08
+  - Corrected and expanded task-Stroop_events.json and some of the individual Stroop events.tsv files to correct errors and distinguish "unintelligible" response accuracy.
+  - Corrected a coding error in ffmq01_DMCC55B.csv.
+1.0.7 2025-01-21
+  - corrected Stroop eprime derivative filenames.
+1.0.6 2022-06-09
+  - Added f8298ds anat, corrected README formatting.
+1.0.5 2021-11-24
+  - Added data dictionary files.
+1.0.4 2021-06-30
+  - Added documentation links; small questionnaire corrections.
+1.0.3 2021-02-08
+  - Added questionnaires to derivatives.
+1.0.2 2021-02-03
+  - replaced NA in events.tsv with n/a.
+1.0.1 2021-01-28
+  - full version.
